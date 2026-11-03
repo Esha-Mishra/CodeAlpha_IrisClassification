@@ -1,0 +1,17 @@
+Model Accuracy: 90.0%
+
+Classification Report:
+                 precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00        10
+Iris-versicolor       0.82      0.90      0.86        10
+ Iris-virginica       0.89      0.80      0.84        10
+
+       accuracy                           0.90        30
+      macro avg       0.90      0.90      0.90        30
+   weighted avg       0.90      0.90      0.90        30
+
+Confusion Matrix:
+[[10  0  0]
+ [ 0  9  1]
+ [ 0  2  8]]
